@@ -1,6 +1,6 @@
 ### WEBER Antoine 👋
 
-![stats](https://github-readme-stats.vercel.app/api?username=twanoo67&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323)
+
 
 - 🔭 I’m currently DevOps @ Lyf App (www.lyf.eu)
 
@@ -8,10 +8,9 @@
 
 - 👯 I’m looking to collaborate on all my pinned repo
 
-- 📫 How to reach me:
+- 📫 How to reach me: https://www.linkedin.com/in/antoine-weber-18b89a43/
 
-https://www.linkedin.com/in/antoine-weber-18b89a43/
-
+![stats](https://github-readme-stats.vercel.app/api?username=twanoo67&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323)
 <!--
 **TwanoO67/TwanoO67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
