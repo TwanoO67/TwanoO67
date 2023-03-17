@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently DevOps @ Lyf App (www.lyf.eu)
+- 🔭 I’m currently Fullstack Engineer @ PlayPlay (www.playplay.com)
 
-- 🌱 I’m learning about Kubernetes, Helm...
+- 🌱 I’m learning about Laravel, Vue, Kubernetes, Helm...
 
 - 👯 I’m looking to collaborate on all my pinned repo
 
